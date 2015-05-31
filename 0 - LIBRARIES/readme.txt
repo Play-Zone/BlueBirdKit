@@ -1,0 +1,1 @@
+How to install libraries: http://www.arduino.cc/en/pmwiki.php?n=Guide/Libraries#toc4
